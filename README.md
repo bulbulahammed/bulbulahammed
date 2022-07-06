@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bulbul Ahammed</h1>
-<h3 align="center">A passionate MERD Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulbulahammed&label=Profile%20views&color=0e75b6&style=flat" alt="bulbulahammed" /> </p>
 
